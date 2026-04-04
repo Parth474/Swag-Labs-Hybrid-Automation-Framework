@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Different User Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="Standard User Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="user" value="standard_user"/>
+    <classes>
+      <class name="tests.CartTest">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="openBrowswer"/>
+          <include name="verifyCheckoutWithEmptyCart"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- tests.CartTest -->
+    </classes>
+  </test> <!-- Standard User Test(failed) -->
+  <test thread-count="5" parallel="tests" name="Problem User Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="user" value="problem_user"/>
+    <classes>
+      <class name="tests.ProductPageTest">
+        <methods>
+          <include name="verifyRemoveFromCart"/>
+          <include name="openWeb"/>
+          <include name="verifyLastProductDetails"/>
+          <include name="verifyAddToCart"/>
+          <include name="launchBrowser"/>
+          <include name="verifyFirstProductDetails"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- tests.ProductPageTest -->
+      <class name="tests.CheckOutTest">
+        <methods>
+          <include name="verifyProductDetailOnOverview"/>
+          <include name="openBrowser"/>
+          <include name="launchBrowser"/>
+          <include name="verifyItemTotal"/>
+          <include name="verifyCartTotal"/>
+          <include name="verifyContinueWithInfo"/>
+          <include name="verifyFinishBtn"/>
+          <include name="verifyCartBadge"/>
+          <include name="closeBrowser"/>
+          <include name="verifyOverviewCancelBtn"/>
+          <include name="verifyBackHomeBtn"/>
+        </methods>
+      </class> <!-- tests.CheckOutTest -->
+      <class name="tests.ProductCatalogTest">
+        <methods>
+          <include name="verifyCartBtn"/>
+          <include name="verifyHamClose"/>
+          <include name="openWeb"/>
+          <include name="verifyInfo"/>
+          <include name="launchBrowser"/>
+          <include name="verifyFilter"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- tests.ProductCatalogTest -->
+      <class name="tests.CartTest">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="openBrowswer"/>
+          <include name="verifyCheckoutWithEmptyCart"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- tests.CartTest -->
+    </classes>
+  </test> <!-- Problem User Test(failed) -->
+</suite> <!-- Failed suite [Different User Suite] -->

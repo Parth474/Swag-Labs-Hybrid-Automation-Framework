@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RetestSuite]" guice-stage="DEVELOPMENT">
+  <parameter name="user" value="problem_user"/>
+  <listeners>
+    <listener class-name="listner.Listner"/>
+  </listeners>
+  <test thread-count="5" name="RetestFailedCases(failed)">
+    <classes>
+      <class name="tests.ProductPageTest">
+        <methods>
+          <include name="verifyRemoveFromCart"/>
+          <include name="openWeb"/>
+          <include name="verifyLastProductDetails"/>
+          <include name="verifyAddToCart"/>
+          <include name="launchBrowser"/>
+          <include name="verifyFirstProductDetails"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- tests.ProductPageTest -->
+    </classes>
+  </test> <!-- RetestFailedCases(failed) -->
+</suite> <!-- Failed suite [RetestSuite] -->

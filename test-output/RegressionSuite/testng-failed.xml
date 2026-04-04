@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RegressionSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="RegressionTests(failed)">
+    <groups>
+      <run>
+        <include name="regression"/>
+        <exclude name="navigation"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="tests.LoginTest">
+        <methods>
+          <include name="validLogin"/>
+          <include name="refreshLogin"/>
+          <include name="emptyField"/>
+          <include name="invalidFields"/>
+          <include name="lockedUser"/>
+          <include name="passwordMask"/>
+        </methods>
+      </class> <!-- tests.LoginTest -->
+    </classes>
+  </test> <!-- RegressionTests(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->

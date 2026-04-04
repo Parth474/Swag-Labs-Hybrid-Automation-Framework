@@ -1,0 +1,351 @@
+2026-03-07 11:50:26.463 [TestNG-tests-2] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 11:50:26.487 [TestNG-tests-2] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 11:50:26.500 [TestNG-tests-2] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 11:50:26.502 [TestNG-tests-2] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 11:50:26.521 [TestNG-tests-2] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 11:50:26.526 [TestNG-tests-2] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 11:50:26.555 [TestNG-tests-2] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 11:50:26.557 [TestNG-tests-2] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 11:50:26.582 [TestNG-tests-2] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 11:50:26.583 [TestNG-tests-2] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 11:50:31.909 [TestNG-tests-1] INFO  tests.LoginTest - ===== VALID LOGIN TEST STARTED =====
+2026-03-07 11:50:32.615 [TestNG-tests-1] INFO  tests.LoginTest - Login successful for user: standard_user
+2026-03-07 11:50:36.451 [TestNG-tests-1] INFO  tests.LoginTest - Running login test for: standard_user
+2026-03-07 11:50:37.328 [TestNG-tests-1] INFO  tests.LoginTest - Test completed for: standard_user | Expected: Pass | Actual: Pass
+2026-03-07 11:50:40.951 [TestNG-tests-1] INFO  tests.LoginTest - Running login test for: problem_user
+2026-03-07 11:50:41.368 [TestNG-tests-1] INFO  tests.LoginTest - Test completed for: problem_user | Expected: Pass | Actual: Pass
+2026-03-07 11:52:12.763 [TestNG-tests-2] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 11:52:12.769 [TestNG-tests-2] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 11:52:12.789 [TestNG-tests-2] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 11:52:12.790 [TestNG-tests-2] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 11:52:12.821 [TestNG-tests-2] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 11:52:12.822 [TestNG-tests-2] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 11:52:12.850 [TestNG-tests-2] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 11:52:12.850 [TestNG-tests-2] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 11:52:12.859 [TestNG-tests-2] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 11:52:12.861 [TestNG-tests-2] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 11:52:16.537 [TestNG-tests-1] INFO  tests.LoginTest - ===== VALID LOGIN TEST STARTED =====
+2026-03-07 11:52:17.516 [TestNG-tests-1] INFO  tests.LoginTest - Login successful for user: standard_user
+2026-03-07 11:52:21.416 [TestNG-tests-1] INFO  tests.LoginTest - Running login test for: standard_user
+2026-03-07 11:52:22.402 [TestNG-tests-1] INFO  tests.LoginTest - Test completed for: standard_user | Expected: Pass | Actual: Pass
+2026-03-07 11:52:25.317 [TestNG-tests-1] INFO  tests.LoginTest - Running login test for: problem_user
+2026-03-07 11:52:26.032 [TestNG-tests-1] INFO  tests.LoginTest - Test completed for: problem_user | Expected: Pass | Actual: Pass
+2026-03-07 11:52:28.857 [TestNG-tests-1] INFO  tests.LoginTest - Running login test for: locked_user
+2026-03-07 12:05:01.736 [TestNG-tests-2] INFO  tests.LoginTest - ===== VALID LOGIN TEST STARTED =====
+2026-03-07 12:05:03.174 [TestNG-tests-2] INFO  tests.LoginTest - Login successful for user: standard_user
+2026-03-07 12:05:03.331 [TestNG-tests-3] INFO  tests.LoginTest - ===== VALID LOGIN TEST STARTED =====
+2026-03-07 12:05:06.837 [TestNG-tests-3] INFO  tests.LoginTest - Login successful for user: standard_user
+2026-03-07 12:05:09.509 [TestNG-tests-1] INFO  tests.LoginTest - ===== VALID LOGIN TEST STARTED =====
+2026-03-07 12:05:11.398 [TestNG-tests-1] INFO  tests.LoginTest - Login successful for user: standard_user
+2026-03-07 12:05:15.238 [TestNG-tests-2] INFO  tests.LoginTest - Running login test for: standard_user
+2026-03-07 12:05:17.326 [TestNG-tests-2] INFO  tests.LoginTest - Test completed for: standard_user | Expected: Pass | Actual: Pass
+2026-03-07 12:05:22.171 [TestNG-tests-3] INFO  tests.LoginTest - Running login test for: standard_user
+2026-03-07 12:05:22.780 [TestNG-tests-1] INFO  tests.LoginTest - Running login test for: standard_user
+2026-03-07 12:05:23.153 [TestNG-tests-3] INFO  tests.LoginTest - Test completed for: standard_user | Expected: Pass | Actual: Pass
+2026-03-07 12:05:24.254 [TestNG-tests-1] INFO  tests.LoginTest - Test completed for: standard_user | Expected: Pass | Actual: Pass
+2026-03-07 12:05:26.635 [TestNG-tests-2] INFO  tests.LoginTest - Running login test for: problem_user
+2026-03-07 12:05:27.756 [TestNG-tests-2] INFO  tests.LoginTest - Test completed for: problem_user | Expected: Pass | Actual: Pass
+2026-03-07 12:05:32.323 [TestNG-tests-1] INFO  tests.LoginTest - Running login test for: problem_user
+2026-03-07 12:05:32.420 [TestNG-tests-3] INFO  tests.LoginTest - Running login test for: problem_user
+2026-03-07 12:05:33.628 [TestNG-tests-3] INFO  tests.LoginTest - Test completed for: problem_user | Expected: Pass | Actual: Pass
+2026-03-07 12:05:33.975 [TestNG-tests-1] INFO  tests.LoginTest - Test completed for: problem_user | Expected: Pass | Actual: Pass
+2026-03-07 12:05:36.555 [TestNG-tests-2] INFO  tests.LoginTest - Running login test for: locked_user
+2026-03-07 12:05:43.357 [TestNG-tests-3] INFO  tests.LoginTest - Running login test for: locked_user
+2026-03-07 12:05:48.543 [TestNG-tests-2] INFO  tests.LoginTest - Test completed for: locked_user | Expected: Fail | Actual: Fail
+2026-03-07 12:05:52.318 [TestNG-tests-1] INFO  tests.LoginTest - Running login test for: locked_user
+2026-03-07 12:05:57.058 [TestNG-tests-3] INFO  tests.LoginTest - Test completed for: locked_user | Expected: Fail | Actual: Fail
+2026-03-07 12:06:02.666 [TestNG-tests-3] INFO  tests.LoginTest - Running login test for: 
+2026-03-07 12:06:03.093 [TestNG-tests-1] INFO  tests.LoginTest - Test completed for: locked_user | Expected: Fail | Actual: Fail
+2026-03-07 12:06:06.143 [TestNG-tests-2] INFO  tests.LoginTest - Running login test for: 
+2026-03-07 12:06:13.614 [TestNG-tests-3] INFO  tests.LoginTest - Test completed for:  | Expected: Fail | Actual: Fail
+2026-03-07 12:06:17.123 [TestNG-tests-2] INFO  tests.LoginTest - Test completed for:  | Expected: Fail | Actual: Fail
+2026-03-07 12:06:21.054 [TestNG-tests-3] INFO  tests.LoginTest - Running login test for: 
+2026-03-07 12:06:21.909 [TestNG-tests-1] INFO  tests.LoginTest - Running login test for: 
+2026-03-07 12:06:33.040 [TestNG-tests-3] INFO  tests.LoginTest - Test completed for:  | Expected: Fail | Actual: Fail
+2026-03-07 12:06:34.049 [TestNG-tests-1] INFO  tests.LoginTest - Test completed for:  | Expected: Fail | Actual: Fail
+2026-03-07 12:06:36.553 [TestNG-tests-2] INFO  tests.LoginTest - Running login test for: 
+2026-03-07 12:06:41.959 [TestNG-tests-3] INFO  tests.LoginTest - Running login test for: standard_user
+2026-03-07 12:06:48.017 [TestNG-tests-2] INFO  tests.LoginTest - Test completed for:  | Expected: Fail | Actual: Fail
+2026-03-07 12:06:52.053 [TestNG-tests-1] INFO  tests.LoginTest - Running login test for: 
+2026-03-07 12:06:52.767 [TestNG-tests-3] INFO  tests.LoginTest - Test completed for: standard_user | Expected: Fail | Actual: Fail
+2026-03-07 12:07:04.086 [TestNG-tests-3] INFO  tests.LoginTest - Running login test for: incorrect
+2026-03-07 12:07:04.450 [TestNG-tests-1] INFO  tests.LoginTest - Test completed for:  | Expected: Fail | Actual: Fail
+2026-03-07 12:07:12.757 [TestNG-tests-2] INFO  tests.LoginTest - Running login test for: standard_user
+2026-03-07 12:07:20.060 [TestNG-tests-3] INFO  tests.LoginTest - Test completed for: incorrect | Expected: Fail | Actual: Fail
+2026-03-07 12:07:23.508 [TestNG-tests-2] INFO  tests.LoginTest - Test completed for: standard_user | Expected: Fail | Actual: Fail
+2026-03-07 12:07:25.946 [TestNG-tests-1] INFO  tests.LoginTest - Running login test for: standard_user
+2026-03-07 12:07:26.660 [TestNG-tests-3] INFO  tests.LoginTest - Running login test for:  standard_user
+2026-03-07 12:07:37.510 [TestNG-tests-1] INFO  tests.LoginTest - Test completed for: standard_user | Expected: Fail | Actual: Fail
+2026-03-07 12:07:37.709 [TestNG-tests-3] INFO  tests.LoginTest - Test completed for:  standard_user | Expected: Fail | Actual: Fail
+2026-03-07 12:07:41.016 [TestNG-tests-1] INFO  tests.LoginTest - Running login test for: incorrect
+2026-03-07 12:07:42.996 [TestNG-tests-3] INFO  tests.LoginTest - Running login test for: standard_user
+2026-03-07 12:07:51.971 [TestNG-tests-1] INFO  tests.LoginTest - Test completed for: incorrect | Expected: Fail | Actual: Fail
+2026-03-07 12:07:53.602 [TestNG-tests-3] INFO  tests.LoginTest - Test completed for: standard_user | Expected: Fail | Actual: Fail
+2026-03-07 12:07:54.469 [TestNG-tests-2] INFO  tests.LoginTest - Running login test for: incorrect
+2026-03-07 12:08:02.056 [TestNG-tests-3] INFO  tests.LoginTest - ===== LOCKED USER TEST =====
+2026-03-07 12:08:03.086 [TestNG-tests-3] INFO  tests.LoginTest - Error displayed: Epic sadface: Sorry, this user has been locked out.
+2026-03-07 12:08:05.712 [TestNG-tests-2] INFO  tests.LoginTest - Test completed for: incorrect | Expected: Fail | Actual: Fail
+2026-03-07 12:08:10.177 [TestNG-tests-1] INFO  tests.LoginTest - Running login test for:  standard_user
+2026-03-07 12:08:12.537 [TestNG-tests-3] INFO  tests.LoginTest - ===== PASSWORD MASK TEST =====
+2026-03-07 12:08:13.017 [TestNG-tests-3] INFO  tests.LoginTest - Password field is masked correctly.
+2026-03-07 12:08:22.077 [TestNG-tests-1] INFO  tests.LoginTest - Test completed for:  standard_user | Expected: Fail | Actual: Fail
+2026-03-07 12:08:24.677 [TestNG-tests-2] INFO  tests.LoginTest - Running login test for:  standard_user
+2026-03-07 12:08:33.072 [TestNG-tests-3] INFO  tests.LoginTest - ===== REFRESH FIELD RESET TEST =====
+2026-03-07 12:08:38.310 [TestNG-tests-2] INFO  tests.LoginTest - Test completed for:  standard_user | Expected: Fail | Actual: Fail
+2026-03-07 12:08:47.189 [TestNG-tests-3] INFO  tests.LoginTest - Fields cleared successfully after refresh.
+2026-03-07 12:08:52.969 [TestNG-tests-1] INFO  tests.LoginTest - Running login test for: standard_user
+2026-03-07 12:08:59.985 [TestNG-tests-3] INFO  tests.ProductCatalogTest - Logging out from application
+2026-03-07 12:09:04.225 [TestNG-tests-1] INFO  tests.LoginTest - Test completed for: standard_user | Expected: Fail | Actual: Fail
+2026-03-07 12:09:06.890 [TestNG-tests-2] INFO  tests.LoginTest - Running login test for: standard_user
+2026-03-07 12:09:09.547 [TestNG-tests-3] INFO  tests.ProductCatalogTest - Verifying all sorting options
+2026-03-07 12:09:18.429 [TestNG-tests-2] INFO  tests.LoginTest - Test completed for: standard_user | Expected: Fail | Actual: Fail
+2026-03-07 12:09:18.535 [TestNG-tests-3] INFO  tests.ProductCatalogTest - Verifying product list visibility
+2026-03-07 12:09:22.867 [TestNG-tests-1] INFO  tests.LoginTest - ===== LOCKED USER TEST =====
+2026-03-07 12:09:24.194 [TestNG-tests-1] INFO  tests.LoginTest - Error displayed: Epic sadface: Sorry, this user has been locked out.
+2026-03-07 12:09:26.669 [TestNG-tests-2] INFO  tests.LoginTest - ===== LOCKED USER TEST =====
+2026-03-07 12:09:28.540 [TestNG-tests-3] INFO  tests.ProductCatalogTest - Addin  g all products to cart
+2026-03-07 12:09:28.646 [TestNG-tests-2] INFO  tests.LoginTest - Error displayed: Epic sadface: Sorry, this user has been locked out.
+2026-03-07 12:09:33.040 [TestNG-tests-1] INFO  tests.LoginTest - ===== PASSWORD MASK TEST =====
+2026-03-07 12:09:33.156 [TestNG-tests-1] INFO  tests.LoginTest - Password field is masked correctly.
+2026-03-07 12:09:37.055 [TestNG-tests-2] INFO  tests.LoginTest - ===== PASSWORD MASK TEST =====
+2026-03-07 12:09:37.236 [TestNG-tests-2] INFO  tests.LoginTest - Password field is masked correctly.
+2026-03-07 12:09:44.384 [TestNG-tests-3] INFO  tests.ProductCatalogTest - Validating product information consistency
+2026-03-07 12:09:59.338 [TestNG-tests-1] INFO  tests.LoginTest - ===== REFRESH FIELD RESET TEST =====
+2026-03-07 12:09:59.416 [TestNG-tests-3] INFO  tests.ProductCatalogTest - Closing hamburger menu
+2026-03-07 12:10:03.396 [TestNG-tests-1] INFO  tests.LoginTest - Fields cleared successfully after refresh.
+2026-03-07 12:10:06.225 [TestNG-tests-2] INFO  tests.LoginTest - ===== REFRESH FIELD RESET TEST =====
+2026-03-07 12:10:07.604 [TestNG-tests-2] INFO  tests.LoginTest - Fields cleared successfully after refresh.
+2026-03-07 12:10:14.074 [TestNG-tests-3] INFO  tests.ProductCatalogTest - Opening hamburger menu
+2026-03-07 12:10:15.695 [TestNG-tests-1] INFO  tests.ProductCatalogTest - Logging out from application
+2026-03-07 12:10:22.904 [TestNG-tests-2] INFO  tests.ProductCatalogTest - Logging out from application
+2026-03-07 12:10:25.075 [TestNG-tests-3] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:10:25.110 [TestNG-tests-3] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:10:29.105 [TestNG-tests-1] INFO  tests.ProductCatalogTest - Verifying all sorting options
+2026-03-07 12:10:38.558 [TestNG-tests-3] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:10:38.558 [TestNG-tests-3] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:10:41.538 [TestNG-tests-3] INFO  tests.CartTest - Validating product details in cart
+2026-03-07 12:10:42.514 [TestNG-tests-2] INFO  tests.ProductCatalogTest - Verifying all sorting options
+2026-03-07 12:10:56.563 [TestNG-tests-1] INFO  tests.ProductCatalogTest - Verifying product list visibility
+2026-03-07 12:11:02.795 [TestNG-tests-3] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:11:02.815 [TestNG-tests-3] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:11:04.975 [TestNG-tests-3] INFO  tests.CartTest - Adding product to cart
+2026-03-07 12:11:06.141 [TestNG-tests-2] INFO  tests.ProductCatalogTest - Verifying product list visibility
+2026-03-07 12:11:14.369 [TestNG-tests-1] INFO  tests.ProductCatalogTest - Addin  g all products to cart
+2026-03-07 12:11:17.959 [TestNG-tests-3] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:11:17.959 [TestNG-tests-3] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:11:18.738 [TestNG-tests-3] INFO  tests.CartTest - Adding product to cart
+2026-03-07 12:11:19.203 [TestNG-tests-3] INFO  tests.CartTest - Refreshing page to validate persistence
+2026-03-07 12:11:20.859 [TestNG-tests-2] INFO  tests.ProductCatalogTest - Addin  g all products to cart
+2026-03-07 12:11:35.099 [TestNG-tests-1] INFO  tests.ProductCatalogTest - Validating product information consistency
+2026-03-07 12:11:50.343 [TestNG-tests-3] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:11:50.349 [TestNG-tests-3] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:11:52.424 [TestNG-tests-3] INFO  tests.CartTest - Adding product to cart
+2026-03-07 12:11:56.562 [TestNG-tests-3] INFO  tests.CartTest - Removing item from cart
+2026-03-07 12:11:57.660 [TestNG-tests-2] INFO  tests.ProductCatalogTest - Validating product information consistency
+2026-03-07 12:12:05.797 [TestNG-tests-1] INFO  tests.ProductCatalogTest - Closing hamburger menu
+2026-03-07 12:12:15.559 [TestNG-tests-2] INFO  tests.ProductCatalogTest - Closing hamburger menu
+2026-03-07 12:12:24.542 [TestNG-tests-3] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:12:24.544 [TestNG-tests-3] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:12:25.920 [TestNG-tests-1] INFO  tests.ProductCatalogTest - Opening hamburger menu
+2026-03-07 12:12:26.808 [TestNG-tests-3] INFO  tests.CartTest - Validating Continue Shopping functionality
+2026-03-07 12:12:34.485 [TestNG-tests-2] INFO  tests.ProductCatalogTest - Opening hamburger menu
+2026-03-07 12:12:41.818 [TestNG-tests-1] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:12:41.824 [TestNG-tests-1] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:12:44.295 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:12:44.361 [TestNG-tests-3] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:12:46.605 [TestNG-tests-3] INFO  tests.CheckOutTest - Login successful
+2026-03-07 12:12:46.621 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST: Cart Badge Count =====
+2026-03-07 12:12:46.621 [TestNG-tests-3] INFO  tests.CheckOutTest - Adding multiple products to cart
+2026-03-07 12:12:48.274 [TestNG-tests-3] INFO  tests.CheckOutTest - Opening cart
+2026-03-07 12:12:48.494 [TestNG-tests-3] INFO  tests.CheckOutTest - Clicking checkout
+2026-03-07 12:12:49.669 [TestNG-tests-3] INFO  tests.CheckOutTest - Items in checkout: 3
+2026-03-07 12:12:49.670 [TestNG-tests-3] INFO  tests.CheckOutTest - Cart badge count: 3
+2026-03-07 12:12:49.673 [TestNG-tests-3] INFO  tests.CheckOutTest - Cart badge verified successfully
+2026-03-07 12:12:52.336 [TestNG-tests-2] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:12:52.338 [TestNG-tests-2] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:12:57.997 [TestNG-tests-1] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:12:58.000 [TestNG-tests-1] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:12:59.914 [TestNG-tests-1] INFO  tests.CartTest - Validating product details in cart
+2026-03-07 12:13:00.342 [TestNG-tests-3] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:13:00.372 [TestNG-tests-3] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:13:04.196 [TestNG-tests-3] INFO  tests.CartTest - Clicking checkout with empty cart
+2026-03-07 12:13:08.480 [TestNG-tests-2] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:13:08.483 [TestNG-tests-2] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:13:10.823 [TestNG-tests-2] INFO  tests.CartTest - Validating product details in cart
+2026-03-07 12:13:16.573 [TestNG-tests-1] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:13:16.579 [TestNG-tests-1] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:13:18.122 [TestNG-tests-1] INFO  tests.CartTest - Adding product to cart
+2026-03-07 12:13:21.582 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:13:21.585 [TestNG-tests-3] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:13:22.472 [TestNG-tests-3] INFO  tests.CheckOutTest - Login successful
+2026-03-07 12:13:22.491 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST: Cart Total Calculation =====
+2026-03-07 12:13:22.491 [TestNG-tests-3] INFO  tests.CheckOutTest - Adding multiple products to cart
+2026-03-07 12:13:23.435 [TestNG-tests-2] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:13:23.436 [TestNG-tests-2] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:13:23.754 [TestNG-tests-3] INFO  tests.CheckOutTest - Opening cart
+2026-03-07 12:13:23.938 [TestNG-tests-3] INFO  tests.CheckOutTest - Clicking checkout
+2026-03-07 12:13:25.196 [TestNG-tests-2] INFO  tests.CartTest - Adding product to cart
+2026-03-07 12:13:25.668 [TestNG-tests-3] INFO  tests.CheckOutTest - Subtotal: 55.97
+2026-03-07 12:13:25.668 [TestNG-tests-3] INFO  tests.CheckOutTest - Tax: 4.48
+2026-03-07 12:13:25.668 [TestNG-tests-3] INFO  tests.CheckOutTest - Displayed Total: 60.45
+2026-03-07 12:13:25.669 [TestNG-tests-3] INFO  tests.CheckOutTest - Cart total calculation verified successfully
+2026-03-07 12:13:29.478 [TestNG-tests-1] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:13:29.480 [TestNG-tests-1] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:13:31.388 [TestNG-tests-1] INFO  tests.CartTest - Adding product to cart
+2026-03-07 12:13:32.665 [TestNG-tests-1] INFO  tests.CartTest - Refreshing page to validate persistence
+2026-03-07 12:13:38.226 [TestNG-tests-2] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:13:38.227 [TestNG-tests-2] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:13:38.494 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:13:38.496 [TestNG-tests-3] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:13:40.142 [TestNG-tests-3] INFO  tests.CheckOutTest - Login successful
+2026-03-07 12:13:40.151 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST: Item Total Calculation =====
+2026-03-07 12:13:40.152 [TestNG-tests-3] INFO  tests.CheckOutTest - Adding multiple products to cart
+2026-03-07 12:13:40.865 [TestNG-tests-2] INFO  tests.CartTest - Adding product to cart
+2026-03-07 12:13:41.834 [TestNG-tests-2] INFO  tests.CartTest - Refreshing page to validate persistence
+2026-03-07 12:13:41.868 [TestNG-tests-3] INFO  tests.CheckOutTest - Opening cart
+2026-03-07 12:13:42.082 [TestNG-tests-3] INFO  tests.CheckOutTest - Clicking checkout
+2026-03-07 12:13:44.474 [TestNG-tests-3] INFO  tests.CheckOutTest - Calculated Item Total: 55.97
+2026-03-07 12:13:44.474 [TestNG-tests-3] INFO  tests.CheckOutTest - Displayed SubTotal: 55.97
+2026-03-07 12:13:44.476 [TestNG-tests-3] INFO  tests.CheckOutTest - Item total calculation verified successfully
+2026-03-07 12:13:47.590 [TestNG-tests-1] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:13:47.685 [TestNG-tests-1] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:13:54.958 [TestNG-tests-1] INFO  tests.CartTest - Adding product to cart
+2026-03-07 12:13:55.923 [TestNG-tests-1] INFO  tests.CartTest - Removing item from cart
+2026-03-07 12:14:09.811 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:14:09.867 [TestNG-tests-3] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:14:19.104 [TestNG-tests-3] INFO  tests.CheckOutTest - Login successful
+2026-03-07 12:14:19.116 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST: Verify Cancel Button =====
+2026-03-07 12:14:19.116 [TestNG-tests-3] INFO  tests.CheckOutTest - Adding product to cart
+2026-03-07 12:14:19.849 [TestNG-tests-3] INFO  tests.CheckOutTest - Opening cart
+2026-03-07 12:14:20.253 [TestNG-tests-3] INFO  tests.CheckOutTest - Clicking checkout
+2026-03-07 12:14:20.601 [TestNG-tests-3] INFO  tests.CheckOutTest - Clicking cancel button
+2026-03-07 12:14:21.138 [TestNG-tests-3] INFO  tests.CheckOutTest - Cancel button verified successfully
+2026-03-07 12:14:26.578 [TestNG-tests-2] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:14:26.617 [TestNG-tests-2] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:14:28.430 [TestNG-tests-2] INFO  tests.CartTest - Adding product to cart
+2026-03-07 12:14:29.180 [TestNG-tests-2] INFO  tests.CartTest - Removing item from cart
+2026-03-07 12:14:42.477 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:14:42.498 [TestNG-tests-3] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:14:44.454 [TestNG-tests-3] INFO  tests.CheckOutTest - Login successful
+2026-03-07 12:14:44.532 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST: Continue Without Info =====
+2026-03-07 12:14:44.532 [TestNG-tests-3] INFO  tests.CheckOutTest - Adding product to cart
+2026-03-07 12:14:48.031 [TestNG-tests-3] INFO  tests.CheckOutTest - Opening cart
+2026-03-07 12:14:49.016 [TestNG-tests-3] INFO  tests.CheckOutTest - Clicking checkout
+2026-03-07 12:14:49.487 [TestNG-tests-3] INFO  tests.CheckOutTest - Clicking continue without filling details
+2026-03-07 12:14:49.817 [TestNG-tests-1] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:14:49.840 [TestNG-tests-1] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:14:51.812 [TestNG-tests-3] INFO  tests.CheckOutTest - Error message displayed as expected
+2026-03-07 12:14:54.875 [TestNG-tests-1] INFO  tests.CartTest - Validating Continue Shopping functionality
+2026-03-07 12:15:04.536 [TestNG-tests-2] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:15:04.548 [TestNG-tests-2] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:15:06.835 [TestNG-tests-2] INFO  tests.CartTest - Validating Continue Shopping functionality
+2026-03-07 12:15:14.215 [TestNG-tests-1] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:15:14.222 [TestNG-tests-1] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:15:14.236 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:15:14.238 [TestNG-tests-3] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:15:16.905 [TestNG-tests-1] INFO  tests.CheckOutTest - Login successful
+2026-03-07 12:15:16.907 [TestNG-tests-1] INFO  tests.CheckOutTest - ===== TEST: Cart Badge Count =====
+2026-03-07 12:15:16.907 [TestNG-tests-1] INFO  tests.CheckOutTest - Adding multiple products to cart
+2026-03-07 12:15:17.058 [TestNG-tests-3] INFO  tests.CheckOutTest - Login successful
+2026-03-07 12:15:17.072 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST: Continue With Checkout Info =====
+2026-03-07 12:15:17.077 [TestNG-tests-3] INFO  tests.CheckOutTest - Adding product to cart
+2026-03-07 12:15:17.335 [TestNG-tests-3] INFO  tests.CheckOutTest - Opening cart
+2026-03-07 12:15:17.626 [TestNG-tests-3] INFO  tests.CheckOutTest - Clicking checkout
+2026-03-07 12:15:17.863 [TestNG-tests-3] INFO  tests.CheckOutTest - Filling checkout information
+2026-03-07 12:15:18.873 [TestNG-tests-1] INFO  tests.CheckOutTest - Opening cart
+2026-03-07 12:15:20.006 [TestNG-tests-1] INFO  tests.CheckOutTest - Clicking checkout
+2026-03-07 12:15:21.214 [TestNG-tests-3] INFO  tests.CheckOutTest - Successfully navigated to overview page
+2026-03-07 12:15:23.348 [TestNG-tests-1] INFO  tests.CheckOutTest - Items in checkout: 3
+2026-03-07 12:15:23.348 [TestNG-tests-1] INFO  tests.CheckOutTest - Cart badge count: 3
+2026-03-07 12:15:23.349 [TestNG-tests-1] INFO  tests.CheckOutTest - Cart badge verified successfully
+2026-03-07 12:15:28.887 [TestNG-tests-2] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:15:28.898 [TestNG-tests-2] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:15:30.519 [TestNG-tests-2] INFO  tests.CheckOutTest - Login successful
+2026-03-07 12:15:30.521 [TestNG-tests-2] INFO  tests.CheckOutTest - ===== TEST: Cart Badge Count =====
+2026-03-07 12:15:30.522 [TestNG-tests-2] INFO  tests.CheckOutTest - Adding multiple products to cart
+2026-03-07 12:15:32.715 [TestNG-tests-2] INFO  tests.CheckOutTest - Opening cart
+2026-03-07 12:15:32.984 [TestNG-tests-2] INFO  tests.CheckOutTest - Clicking checkout
+2026-03-07 12:15:35.484 [TestNG-tests-2] INFO  tests.CheckOutTest - Items in checkout: 3
+2026-03-07 12:15:35.485 [TestNG-tests-2] INFO  tests.CheckOutTest - Cart badge count: 3
+2026-03-07 12:15:35.485 [TestNG-tests-2] INFO  tests.CheckOutTest - Cart badge verified successfully
+2026-03-07 12:15:38.392 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:15:38.399 [TestNG-tests-3] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:15:40.020 [TestNG-tests-1] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:15:40.021 [TestNG-tests-1] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:15:40.712 [TestNG-tests-3] INFO  tests.CheckOutTest - Login successful
+2026-03-07 12:15:40.717 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST: Finish Order =====
+2026-03-07 12:15:40.717 [TestNG-tests-3] INFO  tests.CheckOutTest - Adding product to cart
+2026-03-07 12:15:41.286 [TestNG-tests-3] INFO  tests.CheckOutTest - Opening cart
+2026-03-07 12:15:41.585 [TestNG-tests-3] INFO  tests.CheckOutTest - Clicking checkout
+2026-03-07 12:15:42.838 [TestNG-tests-1] INFO  tests.CartTest - Clicking checkout with empty cart
+2026-03-07 12:15:43.185 [TestNG-tests-3] INFO  tests.CheckOutTest - Clicking finish order
+2026-03-07 12:15:44.135 [TestNG-tests-3] INFO  tests.CheckOutTest - Order completed successfully
+2026-03-07 12:15:50.925 [TestNG-tests-2] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:15:50.925 [TestNG-tests-2] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:15:51.782 [TestNG-tests-2] INFO  tests.CartTest - Clicking checkout with empty cart
+2026-03-07 12:15:55.555 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:15:55.556 [TestNG-tests-3] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:15:57.346 [TestNG-tests-3] INFO  tests.CheckOutTest - Login successful
+2026-03-07 12:15:57.350 [TestNG-tests-3] INFO  tests.CheckOutTest - ===== TEST: Back Home Button =====
+2026-03-07 12:15:57.353 [TestNG-tests-3] INFO  tests.CheckOutTest - Adding product to cart
+2026-03-07 12:15:57.400 [TestNG-tests-1] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:15:57.403 [TestNG-tests-1] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:15:57.855 [TestNG-tests-3] INFO  tests.CheckOutTest - Opening cart
+2026-03-07 12:15:58.371 [TestNG-tests-3] INFO  tests.CheckOutTest - Clicking checkout
+2026-03-07 12:16:00.641 [TestNG-tests-1] INFO  tests.CheckOutTest - Login successful
+2026-03-07 12:16:00.673 [TestNG-tests-1] INFO  tests.CheckOutTest - ===== TEST: Cart Total Calculation =====
+2026-03-07 12:16:00.673 [TestNG-tests-1] INFO  tests.CheckOutTest - Adding multiple products to cart
+2026-03-07 12:16:01.404 [TestNG-tests-3] INFO  tests.CheckOutTest - Clicking Back Home button
+2026-03-07 12:16:02.113 [TestNG-tests-3] INFO  tests.CheckOutTest - Back Home navigation verified successfully
+2026-03-07 12:16:02.474 [TestNG-tests-1] INFO  tests.CheckOutTest - Opening cart
+2026-03-07 12:16:02.894 [TestNG-tests-1] INFO  tests.CheckOutTest - Clicking checkout
+2026-03-07 12:16:10.681 [TestNG-tests-3] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:16:10.692 [TestNG-tests-2] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:16:10.693 [TestNG-tests-3] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:16:10.702 [TestNG-tests-2] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:16:10.793 [TestNG-tests-2] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:16:10.796 [TestNG-tests-3] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 12:16:10.799 [TestNG-tests-2] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:16:10.803 [TestNG-tests-3] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 12:16:10.838 [TestNG-tests-2] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:16:10.842 [TestNG-tests-2] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:16:10.894 [TestNG-tests-3] INFO  tests.ValidEndToEndTest - ===== E2E Test Setup Started =====
+2026-03-07 12:16:10.895 [TestNG-tests-3] INFO  tests.ValidEndToEndTest - Page objects initialized
+2026-03-07 12:16:10.950 [TestNG-tests-2] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:16:10.950 [TestNG-tests-3] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 12:16:10.951 [TestNG-tests-2] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:16:10.951 [TestNG-tests-3] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 12:16:10.999 [TestNG-tests-2] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:16:11.001 [TestNG-tests-2] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:16:11.002 [TestNG-tests-3] INFO  tests.ValidEndToEndTest - ===== E2E Test Setup Started =====
+2026-03-07 12:16:11.005 [TestNG-tests-3] INFO  tests.ValidEndToEndTest - Page objects initialized
+2026-03-07 12:16:11.046 [TestNG-tests-2] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:16:11.046 [TestNG-tests-2] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:16:11.059 [TestNG-tests-3] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 12:16:11.061 [TestNG-tests-3] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 12:16:11.105 [TestNG-tests-2] INFO  tests.CheckOutTest - ===== TEST SETUP STARTED =====
+2026-03-07 12:16:11.110 [TestNG-tests-2] INFO  tests.CheckOutTest - Logging into application with user: standard_user
+2026-03-07 12:16:11.125 [TestNG-tests-3] INFO  tests.ValidEndToEndTest - ===== E2E Test Setup Started =====
+2026-03-07 12:16:11.146 [TestNG-tests-3] INFO  tests.ValidEndToEndTest - Page objects initialized
+2026-03-07 12:16:11.234 [TestNG-tests-2] INFO  tests.CartTest - Initializing page objects
+2026-03-07 12:16:11.234 [TestNG-tests-2] INFO  tests.CartTest - Logging in with user: standard_user
+2026-03-07 12:16:11.244 [TestNG-tests-3] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 12:16:11.245 [TestNG-tests-3] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 12:16:11.325 [TestNG-tests-2] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 12:16:11.328 [TestNG-tests-3] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 12:16:11.328 [TestNG-tests-3] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 12:16:11.332 [TestNG-tests-2] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 12:16:11.449 [TestNG-tests-2] INFO  tests.ValidEndToEndTest - ===== E2E Test Setup Started =====
+2026-03-07 12:16:11.458 [TestNG-tests-2] INFO  tests.ValidEndToEndTest - Page objects initialized
+2026-03-07 12:16:11.594 [TestNG-tests-2] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 12:16:11.595 [TestNG-tests-2] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 12:16:11.725 [TestNG-tests-2] INFO  tests.ValidEndToEndTest - ===== E2E Test Setup Started =====
+2026-03-07 12:16:11.726 [TestNG-tests-2] INFO  tests.ValidEndToEndTest - Page objects initialized
+2026-03-07 12:16:11.847 [TestNG-tests-2] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 12:16:11.847 [TestNG-tests-2] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 12:16:12.010 [TestNG-tests-2] INFO  tests.ValidEndToEndTest - ===== E2E Test Setup Started =====
+2026-03-07 12:16:12.012 [TestNG-tests-2] INFO  tests.ValidEndToEndTest - Page objects initialized
+2026-03-07 12:16:12.239 [TestNG-tests-2] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 12:16:12.249 [TestNG-tests-2] INFO  tests.ProductPageTest - Logging in with user: standard_user
+2026-03-07 12:16:12.753 [TestNG-tests-2] INFO  tests.ProductPageTest - ===== Product Page Test Setup =====
+2026-03-07 12:16:12.753 [TestNG-tests-2] INFO  tests.ProductPageTest - Logging in with user: standard_user

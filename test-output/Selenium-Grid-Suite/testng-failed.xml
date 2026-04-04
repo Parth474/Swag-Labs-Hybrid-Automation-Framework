@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Failed suite [Selenium-Grid-Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="user" value="standard_user"/>
+  <listeners>
+    <listener class-name="listner.ReusableListner"/>
+  </listeners>
+  <test thread-count="3" parallel="tests" name="Linux-Firefox(failed)">
+    <parameter name="os" value="linux"/>
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="tests.CartTest">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="setUp"/>
+          <include name="TC33_VerifyCheckoutWithEmptyCart"/>
+          <include name="shouldNavigateToCheckoutWhenProductAdded"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- tests.CartTest -->
+      <class name="tests.ValidEndToEndTest">
+        <methods>
+          <include name="e2eSetUp"/>
+          <include name="setUp"/>
+          <include name="e2e_AddProductFromCatalog"/>
+          <include name="e2e_MultipleProductsCheckout"/>
+          <include name="e2e_AddProductFromDetailPage"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- tests.ValidEndToEndTest -->
+      <class name="tests.ProductPageTest">
+        <methods>
+          <include name="TC42_VerifyLastProductDetails"/>
+          <include name="setUp"/>
+          <include name="TC42_VerifyFirstProductDetails"/>
+          <include name="TC43_VerifyAddToCart"/>
+          <include name="VerifyBackButton"/>
+          <include name="TC44_VerifyRemoveFromCart"/>
+          <include name="productPageSetUp"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- tests.ProductPageTest -->
+    </classes>
+  </test> <!-- Linux-Firefox(failed) -->
+  <test thread-count="3" parallel="tests" name="Linux-Chrome(failed)">
+    <parameter name="os" value="linux"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="tests.CartTest">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="setUp"/>
+          <include name="TC33_VerifyCheckoutWithEmptyCart"/>
+          <include name="shouldNavigateToCheckoutWhenProductAdded"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- tests.CartTest -->
+      <class name="tests.ValidEndToEndTest">
+        <methods>
+          <include name="e2eSetUp"/>
+          <include name="setUp"/>
+          <include name="e2e_AddProductFromCatalog"/>
+          <include name="e2e_MultipleProductsCheckout"/>
+          <include name="e2e_AddProductFromDetailPage"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- tests.ValidEndToEndTest -->
+      <class name="tests.ProductPageTest">
+        <methods>
+          <include name="TC42_VerifyLastProductDetails"/>
+          <include name="TC42_VerifyFirstProductDetails"/>
+          <include name="setUp"/>
+          <include name="TC43_VerifyAddToCart"/>
+          <include name="VerifyBackButton"/>
+          <include name="TC44_VerifyRemoveFromCart"/>
+          <include name="productPageSetUp"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- tests.ProductPageTest -->
+      <class name="tests.CheckOutTest">
+        <methods>
+          <include name="TC37_verifyContinueWithoutInfo"/>
+          <include name="TC35_VerifyCartTotalCalculation"/>
+          <include name="TC39_VerifyFinishOrder"/>
+          <include name="TC41_verifyBackHomeButton"/>
+          <include name="TC35_VerifyItemTotalCalculation"/>
+          <include name="setUp"/>
+          <include name="TC36_VerifyCancelButton"/>
+          <include name="checkOutSetup"/>
+          <include name="TC38_verifyContinueWithInfo"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- tests.CheckOutTest -->
+    </classes>
+  </test> <!-- Linux-Chrome(failed) -->
+</suite> <!-- Failed suite [Selenium-Grid-Suite] -->

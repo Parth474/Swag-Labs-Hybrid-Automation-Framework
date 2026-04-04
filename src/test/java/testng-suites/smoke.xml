@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SmokeSuite">
+	<listeners>
+  		<listener class-name="listner.ReusableListner"/>
+    </listeners>
+    
+    <test name="SmokeTests">
+        <groups>
+            <run>
+                <include name="smoke"/>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="tests.LoginTest"/>
+	  		<class name="tests.ProductCatalogTest"/>
+	  		<class name="tests.ProductPageTest"/>
+	  		<class name="tests.CartTest"/>
+	  		<class name="tests.CheckOutTest"/>
+        </classes>
+    </test>
+</suite>
