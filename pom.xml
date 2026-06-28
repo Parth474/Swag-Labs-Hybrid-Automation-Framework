@@ -20,7 +20,7 @@
                 <configuration>
                     <!-- Tell Maven which TestNG suite files to run -->
                     <suiteXmlFiles>
-                        <suiteXmlFile>testng-grid.xml</suiteXmlFile>
+                        <suiteXmlFile>testng-grid-standalone.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
@@ -100,11 +100,11 @@
 	</dependency>
 	
 	<!-- Source: https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-grid -->
-	<!-- <dependency>
+	<dependency>
 	    <groupId>org.seleniumhq.selenium</groupId>
 	    <artifactId>selenium-grid</artifactId>
 	    <version>4.41.0</version>
 	    <scope>compile</scope>
-	</dependency> -->
+	</dependency>
   </dependencies>
 </project>
