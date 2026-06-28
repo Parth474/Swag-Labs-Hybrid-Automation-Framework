@@ -100,11 +100,11 @@
 	</dependency>
 	
 	<!-- Source: https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-grid -->
-	<!-- <dependency>
+	<dependency>
 	    <groupId>org.seleniumhq.selenium</groupId>
 	    <artifactId>selenium-grid</artifactId>
 	    <version>4.41.0</version>
 	    <scope>compile</scope>
-	</dependency> -->
+	</dependency>
   </dependencies>
 </project>
