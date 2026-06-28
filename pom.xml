@@ -20,7 +20,7 @@
                 <configuration>
                     <!-- Tell Maven which TestNG suite files to run -->
                     <suiteXmlFiles>
-                        <suiteXmlFile>testng-grid.xml</suiteXmlFile>
+                        <suiteXmlFile>testng-grid-standalone.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
