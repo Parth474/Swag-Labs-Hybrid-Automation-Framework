@@ -21,8 +21,8 @@
         </classes>
     </test>
 
-	<test name="Windows-Edge">
-        <parameter name="browser" value="edge"/>
+	<test name="Windows-Firefox">
+        <parameter name="browser" value="firefox"/>
         <parameter name="os" value="windows"/>
         
         <classes>
