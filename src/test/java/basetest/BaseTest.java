@@ -85,8 +85,6 @@ public class BaseTest {
 
                 driver = new FirefoxDriver();
 
-            }else if(browser.equalsIgnoreCase("edge")) {
-                driver = new EdgeDriver();
             } else {
                 throw new Exception("Invalid browser for local execution");
             }
