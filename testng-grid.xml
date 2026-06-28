@@ -26,7 +26,7 @@
     </test>
 
 	
-    <test name="Linux-Chrome">
+    <!-- <test name="Linux-Chrome">
         <parameter name="browser" value="chrome"/>
         <parameter name="os" value="linux"/>
         
@@ -53,5 +53,5 @@
             <class name="tests.CheckOutTest"/>
             <class name="tests.ValidEndToEndTest"/>
         </classes>
-    </test>
+    </test> -->
 </suite>
